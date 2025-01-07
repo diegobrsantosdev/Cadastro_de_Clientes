@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marce\\source\\repos\\Cadastro_de_Clientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54520C41-D986-4592-9815-BC3FF1DFCFAE}|Cadastro_de_Clientes\\Cadastro_de_Clientes.csproj|c:\\users\\marce\\source\\repos\\cadastro_de_clientes\\cadastro_de_clientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54520C41-D986-4592-9815-BC3FF1DFCFAE}|Cadastro_de_Clientes\\Cadastro_de_Clientes.csproj|solutionrelative:cadastro_de_clientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54520C41-D986-4592-9815-BC3FF1DFCFAE}|Cadastro_de_Clientes\\Cadastro_de_Clientes.csproj|c:\\users\\marce\\source\\repos\\cadastro_de_clientes\\cadastro_de_clientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54520C41-D986-4592-9815-BC3FF1DFCFAE}|Cadastro_de_Clientes\\Cadastro_de_Clientes.csproj|solutionrelative:cadastro_de_clientes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54520C41-D986-4592-9815-BC3FF1DFCFAE}|Cadastro_de_Clientes\\Cadastro_de_Clientes.csproj|c:\\users\\marce\\source\\repos\\cadastro_de_clientes\\cadastro_de_clientes\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54520C41-D986-4592-9815-BC3FF1DFCFAE}|Cadastro_de_Clientes\\Cadastro_de_Clientes.csproj|solutionrelative:cadastro_de_clientes\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54520C41-D986-4592-9815-BC3FF1DFCFAE}|Cadastro_de_Clientes\\Cadastro_de_Clientes.csproj|c:\\users\\marce\\source\\repos\\cadastro_de_clientes\\cadastro_de_clientes\\cadastro_de_clientes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54520C41-D986-4592-9815-BC3FF1DFCFAE}|Cadastro_de_Clientes\\Cadastro_de_Clientes.csproj|solutionrelative:cadastro_de_clientes\\cadastro_de_clientes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54520C41-D986-4592-9815-BC3FF1DFCFAE}|Cadastro_de_Clientes\\Cadastro_de_Clientes.csproj|C:\\Users\\marce\\source\\repos\\Cadastro_de_Clientes\\cadastro_de_clientes\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{54520C41-D986-4592-9815-BC3FF1DFCFAE}|Cadastro_de_Clientes\\Cadastro_de_Clientes.csproj|solutionrelative:cadastro_de_clientes\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 257,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cadastro_de_Clientes.csproj",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Cadastro_de_Clientes\\Cadastro_de_Clientes\\Cadastro_de_Clientes.csproj",
+              "RelativeDocumentMoniker": "Cadastro_de_Clientes\\Cadastro_de_Clientes.csproj",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Cadastro_de_Clientes\\Cadastro_de_Clientes\\Cadastro_de_Clientes.csproj",
+              "RelativeToolTip": "Cadastro_de_Clientes\\Cadastro_de_Clientes.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-05T23:19:16.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Cadastro_de_Clientes\\Cadastro_de_Clientes\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Cadastro_de_Clientes\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Cadastro_de_Clientes\\Cadastro_de_Clientes\\Form1.Designer.cs",
+              "RelativeToolTip": "Cadastro_de_Clientes\\Form1.Designer.cs",
+              "ViewState": "AQIAAEgCAAAAAAAAAAAAAFcCAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T22:37:36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Cadastro_de_Clientes\\Cadastro_de_Clientes\\Form1.cs",
+              "RelativeDocumentMoniker": "Cadastro_de_Clientes\\Form1.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Cadastro_de_Clientes\\Cadastro_de_Clientes\\Form1.cs",
+              "RelativeToolTip": "Cadastro_de_Clientes\\Form1.cs",
+              "ViewState": "AQIAAO8BAAAAAAAAAAAQwAwCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T22:36:48.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Cadastro_de_Clientes\\Cadastro_de_Clientes\\Form1.cs",
+              "RelativeDocumentMoniker": "Cadastro_de_Clientes\\Form1.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Cadastro_de_Clientes\\Cadastro_de_Clientes\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Cadastro_de_Clientes\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T14:41:24.095Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\Cadastro_de_Clientes\\Cadastro_de_Clientes\\Form1.resx",
+              "RelativeDocumentMoniker": "Cadastro_de_Clientes\\Form1.resx",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\Cadastro_de_Clientes\\Cadastro_de_Clientes\\Form1.resx",
+              "RelativeToolTip": "Cadastro_de_Clientes\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-19T12:02:45.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
