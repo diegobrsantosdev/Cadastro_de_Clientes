@@ -45,7 +45,7 @@ CREATE TABLE clientes (
   cidade VARCHAR(50),
   estado VARCHAR(2)
 );
-```
+
 
 ⚙️ How to Run
 Clone or download this repository.
