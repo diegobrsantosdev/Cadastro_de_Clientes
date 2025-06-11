@@ -1,8 +1,6 @@
 # 🧾 Customer Management Application (.NET WinForms)
 
-This is a graphical front-end application developed in C# using Windows Forms (.NET Framework), designed to manage customer records in a MySQL database. It provides an intuitive interface to perform full CRUD operations: **Create, Read, Update, and Delete** customer data.
-
-![Image](Cadastro_de_Clientes/Resources/Captura%20de%20tela%202024-07-26%20.png)
+This is an application developed in C# using Windows Forms (.NET Framework), designed to manage customer records in a MySQL database. It provides an intuitive interface to perform full CRUD operations: **Create, Read, Update, and Delete** customer data.
 
 ## 🚀 Features
 
