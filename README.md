@@ -32,7 +32,7 @@ This is an application developed in C# using Windows Forms (.NET Framework), des
 
 Ensure a MySQL database is running and includes the following table:
 
-```sql
+sql:
 CREATE TABLE clientes (
   id INT AUTO_INCREMENT PRIMARY KEY,
   nome VARCHAR(100),
@@ -44,7 +44,6 @@ CREATE TABLE clientes (
   bairro VARCHAR(50),
   cidade VARCHAR(50),
   estado VARCHAR(2)
-);
 
 ⚙️ How to Run
 Clone or download this repository.
